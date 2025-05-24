@@ -10,13 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ranyeh24/inazuma-tailwind.git",
+    "url": "git+https://github.com/ranyeh24/inazuma-tailwind.git"
   },
-  "keywords": ["company", "landing page"],
+  "keywords": [
+    "company",
+    "landing page"
+  ],
   "author": "Ranyeh",
   "license": "MIT",
   "description": "Tailwind CSS Company Landing Page Template by Ranyeh.",
   "devDependencies": {
-    "tailwindcss": "^3.4.10"
+    "tailwindcss": "^3.4.17"
   }
 }
